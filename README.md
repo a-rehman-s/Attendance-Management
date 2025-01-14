@@ -7,14 +7,15 @@ The Attendance Management System is a **Java-based desktop application** develop
 
 ## Features  
 
-### Admin Login  
-- Secure login access restricted to administrators.  
+### Login Page 
+- Secure login access restricted to administrators.
+- Secure login access for Students to view Attendance.  
 
 ### Home Page  
 - Centralized dashboard for navigation to all features.  
 
 ### Attendance Page  
-- Input attendance data by mess number or student identifier.  
+- Input attendance data by student identifier.  
 - Automatically updates the CSV file with the format:  
   - Column A: Student ID  
   - Column B: Name  
