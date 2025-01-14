@@ -43,8 +43,8 @@ The Attendance Management System is a **Java-based desktop application** develop
 
 ### Clone the Repository  
 ```bash  
-git clone https://github.com/your-repository/attendance-management-system.git  
-cd attendance-management-system  
+git clone https://github.com/a-rehman-s/Attendance-Management.git  
+cd  Attendance-Management
 ```  
 
 ### Compile and Run  
