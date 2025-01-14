@@ -16,7 +16,7 @@ The Attendance Management System is a **Java-based desktop application** develop
 ### Attendance Page  
 - Input attendance data by mess number or student identifier.  
 - Automatically updates the CSV file with the format:  
-  - Column A: Mess No./Student ID  
+  - Column A: Student ID  
   - Column B: Name  
   - Column C: Attendance Count  
 - Ensures efficient tracking and management of attendance records.  
